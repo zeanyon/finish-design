@@ -1,0 +1,50 @@
+item {
+  name: "Cundo_cake"
+  id: 1
+  display_name: "Cundo_cake"
+}
+item {
+  name: "Orion_cake"
+  id: 2
+  display_name: "Orion_cake"
+}
+item {
+  name: "Lonely_GOD"
+  id: 3
+  display_name: "Lonely_GOD"
+}
+item {
+  name: "Lonely_GOD"
+  id: 4
+  display_name: "Lonely_GOD2"
+}
+item {
+  name: "DoubleMint"
+  id: 5
+  display_name: "DoubleMint"
+}
+item {
+  name: "DoubleMint2"
+  id: 6
+  display_name: "DoubleMint2"
+}
+item {
+  name: "Mixed_congee"
+  id: 7
+  display_name: "Mixed_congee"
+}
+item {
+  name: "Mixed_congee2"
+  id: 8
+  display_name: "Mixed_congee2"
+}
+item {
+  name: "Coca"
+  id: 9
+  display_name: "Coca"
+}
+item {
+  name: "Coca2"
+  id: 10
+  display_name: "Coca2"
+}
